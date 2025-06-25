@@ -24,6 +24,8 @@ namespace ADO.NET
             {
 
                 try
+
+                ///// <summary>     
                 {
 
                     conn.Open();
