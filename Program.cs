@@ -27,7 +27,7 @@ namespace ADO.NET
 
                 ///// <summary>     
                 {
-                    Console.WriteLine("Settna Godvin");
+                    Console.WriteLine("Settna Godvin ggggggggg");
                     conn.Open();
                     Console.WriteLine("Connection Opened");
                     MySqlCommand insertcmd = new MySqlCommand("Insert into employees(name,Bio)Values('Harry','sales') ",conn);
